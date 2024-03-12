@@ -1,8 +1,13 @@
 # ZFP143
 
-**This repository contains code from with preprint:**
-Mikhail D. Magnitov, Michela Maresca, Noemí Alonso Saiz, Hans Teunissen, Luca Braccioli, Elzo de Wit. *ZNF143 is a transcriptional regulator of nuclear-encoded mitochondrial genes that acts independently of looping and CTCF.* bioRxiv (2024)
+This repository contains code from with pre-print:
 
-It contains scripts that were used to process and analyse sequencing data described in the pre-print. Additionally, we provide extensive details on the re-analysis of publicly available data on ZNF143.
+*Mikhail D. Magnitov, Michela Maresca, Noemí Alonso Saiz, Hans Teunissen, Luca Braccioli, Elzo de Wit*.
 
-If you have any questions about data analysis from the preprint or about the scripts from the repository, please send an e-mail to m.magnitov@nki.nl.
+**ZNF143 is a transcriptional regulator of nuclear-encoded mitochondrial genes that acts independently of looping and CTCF.** *bioRxiv* (2024).
+
+We have deposited scripts used to process and analyse the sequencing data described in the pre-print. We have also provided extensive details on the re-analysis of publicly available data on ZNF143.
+
+Raw sequencing and mass spectrometry data from the pre-print can be found in GEO ([GSE260914](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE260914)) and PRIDE ([PXD049480](https://www.ebi.ac.uk/pride/archive/projects/PXD049480)) databases.
+
+If you have any questions about the data analysis in the preprint or the scripts in the repository, please email m.magnitov@nki.nl.
