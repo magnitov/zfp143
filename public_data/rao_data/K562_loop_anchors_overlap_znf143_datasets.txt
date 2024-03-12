@@ -1,0 +1,4 @@
+	fraction_peak_loci
+peaks_common	0.03058321479374111
+peaks_proteintech	0.5540540540540541
+peaks_flag	0.0007112375533428165

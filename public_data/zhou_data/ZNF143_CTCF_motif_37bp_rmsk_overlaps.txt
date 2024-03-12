@@ -1,0 +1,12 @@
+     15 .
+      1 LINE/L1
+      1 LTR/ERV1,SINE/B2
+      2 LTR/ERVK
+      1 LTR/ERVK,SINE/B2
+      9 LTR/ERVL-MaLR
+      3 LTR/ERVL-MaLR,SINE/B2
+      1 LTR/ERVL,SINE/B2
+      1 SINE/Alu,SINE/B2
+  10498 SINE/B2
+      9 SINE/B2,SINE/B4
+      3 SINE/B2,SINE/ID

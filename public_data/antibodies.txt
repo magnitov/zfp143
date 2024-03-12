@@ -1,0 +1,41 @@
+Sample	Antibody
+Cobo_Macrophages_ZNF143_ChIPseq_rep1	anti-ZNF143 Novus Biologicals H00007702-M01
+Cobo_Macrophages_ZNF143_ChIPseq_rep2	anti-ZNF143 Novus Biologicals H00007702-M01
+ENCODE_GM12878_ZNF143_ChIPseq_ENCLB209ACW	anti-ZNF143 Proteintech 16618-1-AP
+ENCODE_GM12878_ZNF143_ChIPseq_ENCLB209ACX	anti-ZNF143 Proteintech 16618-1-AP
+ENCODE_GM12878_ZNF143_ChIPseq_ENCLB842ZPU	anti-ZNF143 Proteintech 16618-1-AP
+ENCODE_GM12878_ZNF143_ChIPseq_ENCLB901VQJ	anti-ZNF143 Proteintech 16618-1-AP
+ENCODE_H1_ZNF143_ChIPseq_ENCLB209ABL	anti-ZNF143 Proteintech 16618-1-AP
+ENCODE_H1_ZNF143_ChIPseq_ENCLB209AIM	anti-ZNF143 Proteintech 16618-1-AP
+ENCODE_HeLa_ZNF143_ChIPseq_ENCLB209APP	anti-ZNF143 Proteintech 16618-1-AP
+ENCODE_HeLa_ZNF143_ChIPseq_ENCLB209APQ	anti-ZNF143 Proteintech 16618-1-AP
+ENCODE_HepG2_ZNF143_ChIPseq_ENCLB338WAD	anti-FLAG Sigma F1804
+ENCODE_HepG2_ZNF143_ChIPseq_ENCLB844JXX	anti-FLAG Sigma F1804
+ENCODE_K562_ZNF143_ChIPseq_ENCLB209AQS	anti-ZNF143 Proteintech 16618-1-AP
+ENCODE_K562_ZNF143_ChIPseq_ENCLB209AQT	anti-ZNF143 Proteintech 16618-1-AP
+ENCODE_K562_ZNF143_ChIPseq_ENCLB046RFO	anti-FLAG Sigma F1804
+ENCODE_K562_ZNF143_ChIPseq_ENCLB658FFM	anti-FLAG Sigma F1804
+ENCODE_WTC11_ZNF143_ChIPseq_ENCLB573UDX	anti-FLAG Sigma F1804
+ENCODE_WTC11_ZNF143_ChIPseq_ENCLB656SHY	anti-FLAG Sigma F1804
+Lyu_H9_ZNF143_ChIPseq	anti-ZNF143 Proteintech 16618-1-AP
+Michaud_HeLa_ZNF143_ChIPseq	anti-ZNF143 custom Hernandez lab
+Ngondo-Mbongo_HEK293_ZNF143_ChIPseq	anti-ZNF143 custom Carbon lab
+Ngondo-Mbongo_HPB_ALL_ZNF143_ChIPseq	anti-ZNF143 custom Carbon lab
+Ngondo-Mbongo_HeLa_ZNF143_ChIPseq_rep1	anti-ZNF143 custom Carbon lab
+Ngondo-Mbongo_HeLa_ZNF143_ChIPseq_rep2	anti-ZNF143 custom Carbon lab
+Ngondo-Mbongo_K562_ZNF143_ChIPseq	anti-ZNF143 custom Carbon lab
+Tao_BE2C_ZNF143_ChIPseq	anti-ZNF143 Proteintech 16618-1-AP
+Tenen_U937_ZNF143_ChIPexo	anti-ZNF143 custom Carbon lab
+Treloar_MCF7_ZNF143_ChIPseq_rep1	anti-ZNF143 Novus Biologicals H00007702-M01
+Treloar_MCF7_ZNF143_ChIPseq_rep2	anti-ZNF143 Novus Biologicals H00007702-M01
+Wang_CUTLL_ZNF143_ChIPseq	anti-ZNF143 Novus Biologicals H00007702-M01
+Yan_LoVo_ZNF143_ChIPseq	anti-ZNF143 Abcam ab58168
+Zhang_HEC1B_ZNF143_ChIPnexus	anti-ZNF143 Proteintech 16618-1-AP
+Zhang_HEC1B_AID_ZNF143_ChIPnexus	anti-ZNF143 Proteintech 16618-1-AP
+Jung_Sperm_Zfp143_ChIPseq_rep1	anti-ZNF143 Proteintech 16618-1-AP
+Jung_Sperm_Zfp143_ChIPseq_rep2	anti-ZNF143 Proteintech 16618-1-AP
+Ngondo-Mbongo_3T3_Zfp143_ChIPseq	anti-ZNF143 custom Carbon lab
+Ngondo-Mbongo_MEF_Zfp143_ChIPseq	anti-ZNF143 custom Carbon lab
+Ngondo-Mbongo_mESC_Zfp143_ChIPseq	anti-ZNF143 custom Carbon lab
+Zhou_WT_Zfp143_ChIPseq_rep1	anti-ZNF143 custom Tenen lab
+Zhou_WT_Zfp143_ChIPseq_rep2	anti-ZNF143 custom Tenen lab
