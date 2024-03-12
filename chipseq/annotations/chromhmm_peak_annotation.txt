@@ -1,0 +1,13 @@
+State	ZFP143
+1_Insulator	22622
+2_Intergenic	64532
+3_Heterochromatin	13684
+4_Enhancer	119835
+5_RepressedChromatin	20490
+6_BivalentChromatin	46092
+7_ActivePromoter	882679
+8_StrongEnhancer	132165
+9_TranscriptionTransition	14407
+10_TranscriptionElongation	13825
+11_WeakEnhancer	16420
+12_LowSignal/RepetitiveElements	0

@@ -1,0 +1,10 @@
+sample	time	replicate
+Zfp143_0H_rep1	0H	1
+Zfp143_0H_rep2	0H	2
+Zfp143_2H_rep1	2H	1
+Zfp143_2H_rep2	2H	2
+Zfp143_6H_rep1	6H	1
+Zfp143_6H_rep2	6H	2
+Zfp143_24H_rep1	24H	1
+Zfp143_24H_rep2	24H	2
+
