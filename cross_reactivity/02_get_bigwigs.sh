@@ -1,0 +1,11 @@
+# !/bin/bash
+INPUT_PATH=/DATA/users/magnitov/znf143/chipseq/cross_reactivity
+
+mkdir -p ${INPUT_PATH}/bigwig
+
+for SAMPLE in Guertin_ZNF143_Proteintech_DMSO Guertin_ZNF143_Proteintech_DMSO_rep1 Guertin_ZNF143_Proteintech_DMSO_rep2 Guertin_ZNF143_Proteintech_DMSO_rep3 Guertin_ZNF143_Proteintech_DMSO_rep4 Guertin_ZNF143_Proteintech_dTAG_30min Guertin_ZNF143_Proteintech_dTAG_30min_rep1 Guertin_ZNF143_Proteintech_dTAG_30min_rep2 Guertin_ZNF143_Proteintech_dTAG_30min_rep3 Guertin_ZNF143_Proteintech_dTAG_30min_rep4 Guertin_CTCF_DMSO Guertin_CTCF_DMSO_rep1 Guertin_CTCF_DMSO_rep2 Guertin_CTCF_DMSO_rep3 Guertin_CTCF_dTAG_30min Guertin_CTCF_dTAG_30min_rep1 Guertin_CTCF_dTAG_30min_rep2 Guertin_CTCF_dTAG_30min_rep3 Dong_ZNF143_HA_DMSO Dong_ZNF143_HA_DMSO_rep1 Dong_ZNF143_HA_DMSO_rep2 Dong_ZNF143_HA_dTAG_30min Dong_ZNF143_HA_dTAG_30min_rep1 Dong_ZNF143_HA_dTAG_30min_rep2  
+do
+	bamCoverage -p 32 -bs 50 --effectiveGenomeSize 2913022398 --normalizeUsing RPGC \
+		-b ${INPUT_PATH}/bam/${SAMPLE}.hg38.mapq.proper.sorted.rmdup.bam -o ${INPUT_PATH}/bigwig/${SAMPLE}.rpgc.bw
+done
+

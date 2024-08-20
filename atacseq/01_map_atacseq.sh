@@ -5,7 +5,7 @@ PICARD=/DATA/users/magnitov/software/picard_2.25.6.jar
 
 mkdir -p ${DATA_PATH}/bam
 
-for SAMPLE in gastruloids_72H_DMSO gastruloids_96H_DMSO gastruloids_72H_dTAG_48H gastruloids_96H_dTAG_48H gastruloids_96H_dTAG_72H
+for SAMPLE in gastruloids_72H_DMSO_rep2 gastruloids_96H_DMSO_rep2 gastruloids_120H_DMSO_rep2 gastruloids_72H_dTAG_48H_rep2 gastruloids_96H_dTAG_48H_rep2 gastruloids_120H_dTAG_48H_rep2 gastruloids_96H_dTAG_72H_rep2 gastruloids_120H_dTAG_72H_rep2 gastruloids_120H_dTAG_96H_rep2 gastruloids_72H_DMSO_rep1 gastruloids_96H_DMSO_rep1 gastruloids_120H_DMSO_rep1 gastruloids_72H_dTAG_48H_rep1 gastruloids_96H_dTAG_48H_rep1 gastruloids_120H_dTAG_48H_rep1 gastruloids_96H_dTAG_72H_rep1 gastruloids_120H_dTAG_72H_rep1 gastruloids_120H_dTAG_96H_rep1
 do
 	# Mapping reads
 	bwa mem -t 16 -M ${GENOME_PATH} \

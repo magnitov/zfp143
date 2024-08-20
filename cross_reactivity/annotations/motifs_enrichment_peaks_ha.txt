@@ -1,0 +1,4 @@
+"V1","V2","V3","V4"
+"ZFP143_SBS1_denovo_motifs","345","51.45","31.7126"
+"ZFP143_SBS2_denovo_motifs","19","18.11","0.2182"
+"CTCF_JASPAR_motifs","49","22.1","4.8632"

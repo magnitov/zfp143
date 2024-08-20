@@ -9,6 +9,7 @@ wget https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8127nnn/GSM8127952/suppl/GSM812
 ```
 
 You may additionally need:
+* Blacklist regions for mm10: https://github.com/Boyle-Lab/Blacklist
 * Chromatin states annotation for mESCs: https://github.com/guifengwei/ChromHMM_mESC_mm10
 * ZFP143 ChIP-seq signal in J1 mESCs: http://dc2.cistrome.org/genome_browser/bw/36769_treat.bw 
 * GENCODE gene annotation: https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_mouse/release_M25/gencode.vM25.annotation.gtf.gz
