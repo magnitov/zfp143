@@ -1,5 +1,7 @@
 # ZFP143
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14168879.svg)](https://doi.org/10.5281/zenodo.14168879)
+
 This repository contains code from:
 
 *Mikhail D. Magnitov, Michela Maresca, Noemí Alonso Saiz, Hans Teunissen, Jinhong Dong, Kizhakke M. Sathyan, Luca Braccioli, Michael J. Guertin, Elzo de Wit*. **ZNF143 is a transcriptional regulator of nuclear-encoded mitochondrial genes that acts independently of looping and CTCF** (2024).
