@@ -8,4 +8,4 @@ We have deposited scripts used to process and analyse sequencing and mass spectr
 
 Raw sequencing and mass spectrometry data from our study can be found in GEO ([GSE260914](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE260914) and [GSE271837](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE271837)) and PRIDE ([PXD049480](https://www.ebi.ac.uk/pride/archive/projects/PXD049480)) databases.
 
-If you have any questions about the data analysis in the preprint or the scripts in the repository, please email m.magnitov[at]nki.nl or e.d.wit[at]nki.nl.
+If you have any questions about the data analysis in the paper or the scripts in the repository, please email m.magnitov[at]nki.nl or e.d.wit[at]nki.nl.
