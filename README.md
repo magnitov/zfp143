@@ -4,7 +4,7 @@
 
 This repository contains code from:
 
-*Mikhail D. Magnitov, Michela Maresca, Noemí Alonso Saiz, Hans Teunissen, Jinhong Dong, Kizhakke M. Sathyan, Luca Braccioli, Michael J. Guertin, Elzo de Wit*. **ZNF143 is a transcriptional regulator of nuclear-encoded mitochondrial genes that acts independently of looping and CTCF** (2024).
+*Mikhail D. Magnitov<sup>†</sup>, Michela Maresca<sup>†</sup>, Noemí Alonso Saiz, Hans Teunissen, Jinhong Dong, Kizhakke M. Sathyan, Luca Braccioli, Michael J. Guertin, Elzo de Wit*. **[ZNF143 is a transcriptional regulator of nuclear-encoded mitochondrial genes that acts independently of looping and CTCF](https://doi.org/10.1016/j.molcel.2024.11.031)** (2024).
 
 We have deposited scripts used to process and analyse sequencing and mass spectrometry data described in the paper. We have also provided extensive details on the re-analysis of publicly available data on ZNF143, which is an essential part of the manuscript.
 
